@@ -13,3 +13,5 @@ The 2023 course included the following exercises provided as Jupyter Notebooks:
 10. Decision Trees and Random Forests
 11. Long Short-Term Memory (LSTM), application in Cybersecurity
 12. SHAP-based eXplainable AI (XAI) for tree-based classifiers
+
+For anyone interested to re-solve any of these exercises feel free to delete my solution and try out your own :) 
